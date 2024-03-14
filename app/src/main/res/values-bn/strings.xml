@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="today_prayers">আজকের নামাজ</string>
+    <string name="today_zikr">আজকের যিকির</string>
+    <string name="today_tasbih">আজকের তাসবীহ</string>
+    <string name="allahu_akbar">আল্লাহু আকবার</string>
+    <string name="alhamdulillah">আলহামদুলিল্লাহ</string>
+    <string name="subhanallah">সুবহানাল্লাহ</string>
+    <string name="prayers_reset">আজকের নামাজ পুনরায় সেট করুন</string>
+    <string name="zikr_has_been_reset">আজকের যিকির পুনরায় সেট করা হয়েছে</string>
+    <string name="tasbih_has_been_reset">আজকের তাসবীহ পুনরায় সেট করা হয়েছে</string>
+    <string name="share_process_failed">শেয়ারিং ব্যর্থ হয়েছে</string>
+    <string name="prayers_label">নামাজ</string>
+    <string name="zikr_label">যিকির</string>
+    <string name="tasbih_label">তাসবীহ</string>
+    <string name="introduce_to_friends">বন্ধুদের পরিচিত করুন</string>
+    <string name="start_link">https://github.com/rjfahad44</string>
+    <string name="star_notice">দয়া করে আমাকে একটি স্টার দিন</string>
+    <string name="share_app_with_friends">আপনি যদি আপনার দৈনিক যিকিরের জন্য বিভিন্ন অ্যাপের পরিবর্তে একটি সহজ এবং সংক্ষেপ্ত উইজেট ব্যবহার করতে চান, তবে আপনি সরাসরি এখনই টাসবি-উইজেট ইনস্টল করতে পারেন এবং ব্যবহার করতে শুরু করতে পারেন।</string>
+    <string name="english">English</string>
+    <string name="settings">Settings</string>
+    <string name="reset">Reset</string>
+    <string name="color">Color</string>
+    <string name="text_color">Text Color</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="exit">Exit</string>
+    <string name="arabic">Arabic</string>
+    <string name="bengali">Bengali</string>
+    <string name="language">Language</string>
+    <string name="zikr_widget_title">আল্লাহ ছাড়া কোন মাবুদ নেই, সার্বভৌম, স্পষ্ট সত্য</string>
+
+</resources>
